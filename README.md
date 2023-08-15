@@ -37,6 +37,6 @@ Collect and Visualize your IoT data in minutes by following this [guide](https:/
  - [Q&A forum](https://groups.google.com/forum/#!forum/thingsboard)
  - [Stackoverflow](http://stackoverflow.com/questions/tagged/thingsboard)
 
-## Licenses
+## Licenses and
 
 This project is released under [Apache 2.0 License](./LICENSE).
